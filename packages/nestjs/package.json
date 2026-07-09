@@ -43,7 +43,7 @@
         "/lib"
     ],
     "devDependencies": {
-        "@nestjs/core": "^10",
+        "@nestjs/core": "^11",
         "@nestjs/platform-express": "^10",
         "@nestjs/testing": "^10",
         "@rollup/plugin-commonjs": "^26.0.1",
