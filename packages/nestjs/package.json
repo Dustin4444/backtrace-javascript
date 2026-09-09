@@ -44,7 +44,7 @@
     ],
     "devDependencies": {
         "@nestjs/core": "^10",
-        "@nestjs/platform-express": "^10",
+        "@nestjs/platform-express": "^11.0.13",
         "@nestjs/testing": "^10",
         "@rollup/plugin-commonjs": "^26.0.1",
         "@rollup/plugin-json": "^6.1.0",
